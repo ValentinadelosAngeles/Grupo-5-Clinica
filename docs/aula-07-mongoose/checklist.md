@@ -16,7 +16,7 @@
 - [x] Lint e build do backend e build do frontend aprovados.
 - [x] Documentação de apoio, dicionário, evidências e roteiro preparados.
 - [x] PR 5 aberto para develop pelo fork da conta ValentinadelosAngeles.
-- [ ] Conferência visual no Compass — aplicativo não abriu janela controlável.
+- [x] Compass 1.53.2 conferido com cinco documentos, filtros e quatro índices READY.
 - [x] Execução padrão do backend e build do frontend aprovados na CI do PR.
 - [ ] Revisão do campo modalidade pelo grupo e aceite do PO.
 - [ ] Revisão do PR por outro integrante e merge na develop.

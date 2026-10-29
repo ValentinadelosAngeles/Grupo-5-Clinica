@@ -6,8 +6,8 @@ Módulo E — Convênios. Branch: convenios/schema-seed.
 - [Documento Word](atividade-aula7-mongoose-2026-10-29.docx).
 - [Checklist da entrega](checklist.md).
 - [Dicionário do modelo](dicionario-convenios.md).
-- [Roteiro para conferência no Compass](guia-compass.md).
-- [Evidências do Atlas e do verificador](evidencias/).
+- [Resultado e roteiro da conferência no Compass](guia-compass.md).
+- [Evidências do Atlas, Compass e verificador](evidencias/).
 - [Pull Request para develop](https://github.com/bryanantonii/Grupo-5-Clinica/pull/5).
 
 Na pasta backend, execute npm run seed e npm run verificar:convenios, usando a configuração local do .env. O frontend ainda usa seus mocks; esta entrega não publica controller HTTP para Convênios.
