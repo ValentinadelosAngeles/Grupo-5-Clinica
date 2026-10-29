@@ -15,7 +15,7 @@
 - [x] 17 testes do schema e 8 de Produtos aprovados com resolvedor JS local.
 - [x] Lint e build do backend e build do frontend aprovados.
 - [x] Documentação de apoio, dicionário, evidências e roteiro preparados.
-- [x] PR 4 aberto para develop pela conta ValentinadelosAngeles.
+- [x] PR 5 aberto para develop pelo fork da conta ValentinadelosAngeles.
 - [ ] Conferência visual no Compass — aplicativo não abriu janela controlável.
 - [x] Execução padrão do backend e build do frontend aprovados na CI do PR.
 - [ ] Revisão do campo modalidade pelo grupo e aceite do PO.
